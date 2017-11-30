@@ -1,2 +1,2 @@
 # hello-world
-Firs step buddy
+First step buddy
